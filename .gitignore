@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+salida/
+fotos_elegidas/
+.DS_Store
